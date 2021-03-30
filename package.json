@@ -1,0 +1,21 @@
+{
+    "name": "JustAn0therDev",
+    "displayName": "Greener Green",
+    "description": "A darkgreen color theme with syntax highlight",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Greener Green",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Greener Green-color-theme.json"
+            }
+        ]
+    }
+}
